@@ -1,0 +1,25 @@
+nopCommerce
+
+-user registration
+-user login
+-forgot password
+-home page
+-My Account Change password
+-Search functionality
+-Add-/remove product to wishlist
+    --Adding item to wishlist when logged in
+    --Adding item to wishlist when not logged in
+-Add-/remove product to cart
+-Add product review
+-compare products
+-checkout as registered user
+-checkout as guest
+-download invoice as pdf
+-contact us
+-change currency
+-main navigation menu
+-newsletter
+-product display page
+-email a friend
+
+
