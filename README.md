@@ -1,0 +1,42 @@
+
+# Selenium Framework
+
+This a Simple selenium Framework using java, maven, testng, POM and DDT, where im trying to implement what i learned on a project.
+
+
+## Website Home page
+
+![App Screenshot](F:\java_Proj\005.Selenium Framework/1.png)
+
+
+## TestCases
+
+-user registration
+
+-user login
+
+-forgot password
+
+-home page
+
+-My Account Change password
+
+-Search functionality
+
+-Add-/remove product to wishlist
+
+-Add/remove product to cart
+
+-compare products
+
+-checkout as registered user
+
+-checkout as guest
+
+-main navigation menu
+
+-product display page
+
+
+
+
